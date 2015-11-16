@@ -1,0 +1,42 @@
+body {
+    font-family: arial, helvetica, san-serif;
+}
+
+p {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#header {
+    display: inline;
+    float: right
+}
+nav a {
+    font-size: 12px;
+    color: gray;
+    text-decoration: none;
+    margin: 20px 10px 0 10px;
+}
+
+#main {
+    padding: 180px;
+}
+
+.button {
+    color: gray;
+    background-color: #D3D4DA;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#footer {
+    background-color: #D3D4DA;
+}
+
+#bottom-left {
+    float: left;
+}
+
+#bottom-right {
+    float: right;
+}
